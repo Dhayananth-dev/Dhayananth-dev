@@ -62,7 +62,7 @@ A secure RESTful API built using Spring Boot with JWT authentication.
 - Role-based Authorization  
 - Product Management  
 - Order & Cart APIs  
-- H2 / MySQL Integration  
+- MySQL Integration  
 
 ---
 
@@ -73,16 +73,8 @@ Spring Boot REST API to manage employees with validation and exception handling.
 - CRUD Operations  
 - Validation using `@Valid`  
 - Global Exception Handling  
-- Swagger API Docs  
-
----
-
-## 📫 Connect with Me  
-
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- LinkedIn: (Add your LinkedIn here)  
-- Email: (Optional)
-
+- Swagger API Docs
+  
 ---
 
 ⭐ **I believe in learning by building. Let's create something amazing!**
