@@ -1,16 +1,88 @@
-## Hi there 👋
+# Hi 👋, I'm Dhaya  
 
-<!--
-**Dhayananth-dev/Dhayananth-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Developer | Spring Boot | Backend Engineer | DSA Learner  
 
-Here are some ideas to get you started:
+I am a passionate **Java Developer** focused on building secure, scalable, and high-performance applications. I enjoy solving problems, learning system design, and writing clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+**Languages**
+- Java  
+- SQL
+- HTML
+- CSS
+- JavaScript (Basics)
+
+**Backend**
+- Spring Boot  
+- Spring Security  
+- REST APIs  
+- JWT Authentication  
+
+**Database**
+- MySQL  
+- H2  
+
+**Tools**
+- Git & GitHub  
+- Postman  
+- Eclipse IDE
+
+---
+
+## 📚 What I'm Currently Learning  
+- Data Structures & Algorithms  
+- System Design  
+- Advanced Spring Boot  
+- Microservices  
+- Security (JWT, OAuth2)
+
+---
+
+## 🧠 Skills  
+
+✔ Object-Oriented Programming  
+✔ RESTful API Design  
+✔ Authentication & Authorization  
+✔ Database Design  
+✔ Debugging & Problem Solving  
+✔ Clean Code Practices  
+
+---
+
+## 🔥 Projects  
+
+### 🛒 E-Commerce Backend  
+A secure RESTful API built using Spring Boot with JWT authentication.
+
+**Features**
+- User Authentication (JWT)  
+- Role-based Authorization  
+- Product Management  
+- Order & Cart APIs  
+- H2 / MySQL Integration  
+
+---
+
+### 👨‍💼 Employee Management System  
+Spring Boot REST API to manage employees with validation and exception handling.
+
+**Features**
+- CRUD Operations  
+- Validation using `@Valid`  
+- Global Exception Handling  
+- Swagger API Docs  
+
+---
+
+## 📫 Connect with Me  
+
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- LinkedIn: (Add your LinkedIn here)  
+- Email: (Optional)
+
+---
+
+⭐ **I believe in learning by building. Let's create something amazing!**
