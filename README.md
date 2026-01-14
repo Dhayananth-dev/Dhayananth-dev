@@ -23,7 +23,7 @@ I am a passionate **Java Developer** focused on building secure, scalable, and h
 
 **Database**
 - MySQL  
-- H2  
+- Oracle  
 
 **Tools**
 - Git & GitHub  
