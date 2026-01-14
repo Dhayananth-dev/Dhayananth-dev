@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dhaya  
 
-🚀 Java Developer | Spring Boot | Backend Engineer | DSA Learner  
+🚀 Java Developer | Spring Boot | DevOps | DSA Learner  
 
 I am a passionate **Java Developer** focused on building secure, scalable, and high-performance applications. I enjoy solving problems, learning system design, and writing clean code.
 
