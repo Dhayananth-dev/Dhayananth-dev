@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dhaya</h1>
 <h3 align="center">🚀 Java Developer | DevOps Engineer</h3>
 
-![](https://komarev.com/ghpvc/?username=Dhayananth-dev&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhayananth-dev&color=blue" />
+</p>
 
 ---
 
 ## 🔥 About Me
 
-* 💻 Java Developer
-* 🚀 DevOps (Docker, CI/CD, Kubernetes)
-* ⚙️ I build & deploy scalable applications
-* 🌱 Learning Microservices & Kubernetes
+* 💻 Java Developer with strong backend experience
+* 🚀 DevOps Engineer (Docker, CI/CD, Kubernetes)
+* 🐧 Skilled in Linux & Shell Scripting
+* ⚙️ I build, automate, and deploy scalable applications
+* 🌱 Currently learning Microservices & Kubernetes
 
 ---
 
@@ -22,17 +25,25 @@
 <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
 </p>
 
-### 🚀 DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github,linux,git" />
-</p>
-
 ### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
 </p>
+
+### 🚀 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github,linux,git,bash" />
+</p>
+
+---
+
+## 🐧 Shell Scripting
+
+* Automated build and deployment using Bash scripts
+* Wrote scripts for application setup and environment configuration
+* Experience with Linux commands and process automation
 
 ---
 
@@ -54,10 +65,11 @@
 
 ## 🚀 DevOps Experience
 
-* 🐳 Dockerized Spring Boot apps
-* ⚙️ CI/CD using GitHub Actions
-* 🔄 Automated deployment pipelines
-* ☁️ Kubernetes basics
+* 🐳 Dockerized Spring Boot applications
+* ⚙️ Built CI/CD pipelines using GitHub Actions
+* 🔄 Automated build & deployment workflows
+* 🐧 Developed shell scripts for automation
+* ☁️ Basic Kubernetes deployment knowledge
 
 ---
 
@@ -66,17 +78,27 @@
 ### 🛒 E-Commerce Backend
 
 ✔ Spring Boot + JWT
-✔ Dockerized
-✔ CI/CD Pipeline
+✔ Dockerized application
+✔ CI/CD pipeline using GitHub Actions
+✔ Automated deployment
 
-### 👨‍💼 Employee Management
+### 👨‍💼 Employee Management System
 
-✔ REST API
-✔ Dockerized
-✔ CI/CD Integrated
+✔ REST API with validation
+✔ Dockerized application
+✔ CI/CD integration
+✔ Automated build process
 
 ---
 
 ## 🌐 Connect
 
-<a href="https://www.linkedin.com/in/dhayananth-m-62146b2ab">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/dhayananth-m-62146b2ab)
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Dhayananth-dev/Dhayananth-dev/blob/output/github-contribution-grid-snake.svg" />
+</p>
