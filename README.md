@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhaya</h1>
 <h3 align="center">🚀 Java Developer | DevOps Engineer</h3>
 
+![](https://komarev.com/ghpvc/?username=Dhayananth-dev&color=blue)
+
 ---
 
 ## 🔥 About Me
