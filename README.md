@@ -77,4 +77,4 @@
 
 ## 🌐 Connect
 
-<a href="www.linkedin.com/in/dhayananth-m-62146b2ab">LinkedIn</a>
+<a href="https://www.linkedin.com/in/dhayananth-m-62146b2ab">LinkedIn</a>
