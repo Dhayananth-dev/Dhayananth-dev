@@ -1,80 +1,80 @@
-# Hi 👋, I'm Dhaya  
-
-🚀 Java Developer | Spring Boot | DevOps | DSA Learner  
-
-I am a passionate **Java Developer** focused on building secure, scalable, and high-performance applications. I enjoy solving problems, learning system design, and writing clean code.
+<h1 align="center">Hi 👋, I'm Dhaya</h1>
+<h3 align="center">🚀 Java Developer | DevOps Engineer</h3>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔥 About Me
 
-**Languages**
-- Java  
-- SQL
-- HTML
-- CSS
-- JavaScript (Basics)
-
-**Backend**
-- Spring Boot  
-- Spring Security  
-- REST APIs  
-- JWT Authentication  
-
-**Database**
-- MySQL  
-- Oracle  
-
-**Tools**
-- Git & GitHub  
-- Postman  
-- Eclipse IDE
+* 💻 Java Developer
+* 🚀 DevOps (Docker, CI/CD, Kubernetes)
+* ⚙️ I build & deploy scalable applications
+* 🌱 Learning Microservices & Kubernetes
 
 ---
 
-## 📚 What I'm Currently Learning  
-- Data Structures & Algorithms  
-- System Design  
-- Advanced Spring Boot  
-- Microservices  
-- Security (JWT, OAuth2)
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+</p>
+
+### 🚀 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github,linux,git" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
 ---
 
-## 🧠 Skills  
+## 📊 GitHub Stats
 
-✔ Object-Oriented Programming  
-✔ RESTful API Design  
-✔ Authentication & Authorization  
-✔ Database Design  
-✔ Debugging & Problem Solving  
-✔ Clean Code Practices  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhayananth-dev&show_icons=true&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhayananth-dev&theme=tokyonight" />
+</p>
 
-## 🔥 Projects  
-
-### 🛒 E-Commerce Backend  
-A secure RESTful API built using Spring Boot with JWT authentication.
-
-**Features**
-- User Authentication (JWT)  
-- Role-based Authorization  
-- Product Management  
-- Order & Cart APIs  
-- MySQL Integration  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhayananth-dev&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 👨‍💼 Employee Management System  
-Spring Boot REST API to manage employees with validation and exception handling.
+## 🚀 DevOps Experience
 
-**Features**
-- CRUD Operations  
-- Validation using `@Valid`  
-- Global Exception Handling  
-- Swagger API Docs
-  
+* 🐳 Dockerized Spring Boot apps
+* ⚙️ CI/CD using GitHub Actions
+* 🔄 Automated deployment pipelines
+* ☁️ Kubernetes basics
+
 ---
 
-⭐ **I believe in learning by building. Let's create something amazing!**
+## 🔥 Projects
+
+### 🛒 E-Commerce Backend
+
+✔ Spring Boot + JWT
+✔ Dockerized
+✔ CI/CD Pipeline
+
+### 👨‍💼 Employee Management
+
+✔ REST API
+✔ Dockerized
+✔ CI/CD Integrated
+
+---
+
+## 🌐 Connect
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
