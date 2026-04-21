@@ -79,6 +79,4 @@
 
 ## 🌐 Connect
 
-![snake gif](https://github.com/Dhayananth-dev/Dhayananth-dev/blob/output/github-contribution-grid-snake.svg)
-
 <a href="https://www.linkedin.com/in/dhayananth-m-62146b2ab">LinkedIn</a>
