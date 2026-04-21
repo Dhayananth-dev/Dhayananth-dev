@@ -99,8 +99,6 @@
 
 ## 🐍 Contribution Graph
 
-## 🐍 Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhayananth-dev/Dhayananth-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
