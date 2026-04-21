@@ -7,67 +7,98 @@
 
 ---
 
-## ⚡ DevOps Dashboard
+## 🔥 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhayananth-dev&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhayananth-dev&theme=tokyonight" height="150"/>
+* 💻 Java Developer with strong backend experience
+* 🚀 DevOps Engineer (Docker, CI/CD, Kubernetes)
+* 🐧 Skilled in Linux & Shell Scripting
+* ⚙️ I build, automate, and deploy scalable applications
+* 🌱 Currently learning Microservices & Kubernetes
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhayananth-dev&layout=compact&theme=tokyonight" height="150"/>
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### 🚀 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github,linux,git,bash" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🐧 Shell Scripting
+
+* Automated build and deployment using Bash scripts
+* Wrote scripts for application setup and environment configuration
+* Experience with Linux commands and process automation
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhayananth-dev&theme=tokyo-night" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhayananth-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhayananth-dev&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhayananth-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 DevOps Experience
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,jenkins,linux,git,bash,mysql" />
-</p>
-
----
-
-## 🚀 DevOps Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-blue?logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions"/>
-  <img src="https://img.shields.io/badge/Linux-black?logo=linux"/>
-  <img src="https://img.shields.io/badge/Bash-green?logo=gnubash"/>
-</p>
+* 🐳 Dockerized Spring Boot applications
+* ⚙️ Built CI/CD pipelines using GitHub Actions
+* 🔄 Automated build & deployment workflows
+* 🐧 Developed shell scripts for automation
+* ☁️ Basic Kubernetes deployment knowledge
 
 ---
 
-## 🏆 Achievements
+## 🔥 Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhayananth-dev&theme=tokyonight" />
-</p>
+### 🛒 E-Commerce Backend
 
----
+✔ Spring Boot + JWT
+✔ Dockerized application
+✔ CI/CD pipeline using GitHub Actions
+✔ Automated deployment
 
-## 🐍 Contribution Snake
+### 👨‍💼 Employee Management System
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhayananth-dev/Dhayananth-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
+✔ REST API with validation
+✔ Dockerized application
+✔ CI/CD integration
+✔ Automated build process
 
 ---
 
 ## 🌐 Connect
 
+[LinkedIn](https://www.linkedin.com/in/dhayananth-m-62146b2ab)
+
+---
+
+## 🐍 Contribution Graph
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhayananth-m-62146b2ab">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Dhayananth-dev/Dhayananth-dev/output/github-contribution-grid-snake.svg" />
 </p>
