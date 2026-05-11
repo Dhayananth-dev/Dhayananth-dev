@@ -94,6 +94,7 @@
 ## 🌐 Connect
 
 [LinkedIn](https://www.linkedin.com/in/dhayananth-m-62146b2ab)
+[Portfolio](https://portfolio-47ha1oqaf-dhayananth-devs-projects.vercel.app/)
 
 ---
 
